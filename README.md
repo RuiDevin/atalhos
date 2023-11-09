@@ -1,0 +1,1 @@
+este projeto esta sendo desnvolvido afim de facilitar a vida para o desenvolvimento de algo maior 
