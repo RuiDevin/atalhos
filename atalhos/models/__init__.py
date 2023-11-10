@@ -1,4 +1,4 @@
-from .bairro import Bairros
+from .bairro import Bairro
 from .estado import Estado
 from .zona_da_estado import ZonaEstado
 from .zona_da_cidade import ZonaCidade

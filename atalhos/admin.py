@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from Atalhos.models import Bairro, Estado, ZonaEstado, ZonaCidade, Rua, Cidade
+from atalhos.models import Bairro, Estado, ZonaEstado, ZonaCidade, Rua, Cidade
 
 admin.site.register(Bairro)
 admin.site.register(Rua)
