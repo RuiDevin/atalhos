@@ -6,3 +6,4 @@ from .rua import Rua
 from .cidade import Cidade
 from .endereco import Endereco
 from .ddd_telefonico import DDD47
+from .operadora_telefonica import Operadora
